@@ -3,3 +3,5 @@ Youtube/tokenkey.py
 CoinMarketCap/tokenkey.py
 WeatherAPI/tokenkey.py
 WeatherAPI/test.csv
+SpoonacularAPI/token_api.py
+SpoonacularAPI/foto1.png
